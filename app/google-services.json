@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351359211156",
+    "project_id": "petra-d2c28",
+    "storage_bucket": "petra-d2c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351359211156:android:2bb86564191795955c4681",
+        "android_client_info": {
+          "package_name": "com.archonie.petracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqse0IBDARcmNFjZQ8mNLsHgt5b4pMEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
